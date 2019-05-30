@@ -1,8 +1,6 @@
 package pkgTemplateMethod;
 
-/* Students are EXPECTED to complete this code 
- * 
- */
+
 
 class OfflineOrderProcessing extends OrderProcessing{ 
 	
@@ -16,7 +14,7 @@ class OfflineOrderProcessing extends OrderProcessing{
 		
 	} 
 	
-}//end class OfflineOrderProcessing
+}
 
 
 
